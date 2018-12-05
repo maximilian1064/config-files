@@ -1,0 +1,9 @@
+[user]
+	name = maximilian1064
+	email = lei.yan@rwth-aachen.de
+[alias]
+	st = status -s
+	graph = log --oneline --decorate --graph --all
+[log]
+[core]
+	editor = vim
