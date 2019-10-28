@@ -36,6 +36,9 @@ Plugin 'Conque-GDB'
 Plugin 'flazz/vim-colorschemes'
 " Color Schemes
 
+Plugin 'rust-lang/rust.vim'
+" RUST
+
 " All Plugins must be added before the following line
 call vundle#end()            " required
 filetype plugin indent on    " required
@@ -126,4 +129,4 @@ let g:tex_flavor = "latex"
 
 "" COLOR SCHEMES
 "colorscheme Benokai
-"set t_Co=256
+set t_Co=256
