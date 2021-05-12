@@ -77,11 +77,8 @@ source $ZSH/oh-my-zsh.sh
 # export SSH_KEY_PATH="~/.ssh/dsa_id"
 
 # PATHs
-#export PATH=/opt/hermit/bin:/usr/local/texlive/2016/bin/x86_64-linux:${PATH}
-export PATH=/opt/hermit/bin:${PATH}
 
 # DIRECTORY SHORTCUT
-export CTextBookAssign=${HOME}/workspace/C-Refreshing/textbook-assignments
 
 # Set personal aliases, overriding those provided by oh-my-zsh libs,
 # plugins, and themes. Aliases can be placed here, though oh-my-zsh

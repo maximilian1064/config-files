@@ -14,7 +14,7 @@ Plugin 'scrooloose/nerdtree'
 " NERDTree
 " Plugin 'nathanaelkane/vim-indent-guides'
 " indent display, install colorscheme first
-Plugin 'valloric/youcompleteme'
+" Plugin 'valloric/youcompleteme'
 " compeletion with C/C++ semantic support
 " Plugin 'scrooloose/syntastic'
 " syntax checking 
@@ -31,7 +31,7 @@ Plugin 'yggdroot/indentline'
 "
 Plugin 'lervag/vimtex'
 " vimtex 
-Plugin 'Conque-GDB'
+" Plugin 'Conque-GDB'
 " GDB integration
 Plugin 'flazz/vim-colorschemes'
 " Color Schemes
